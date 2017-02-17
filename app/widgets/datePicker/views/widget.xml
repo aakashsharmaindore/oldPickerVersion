@@ -1,0 +1,14 @@
+<Alloy>
+	<Window id="win" title="" backgroundColor="transparent">
+		<View height="100%" width="100%" backgroundColor="transparent" id="backView"></View>
+		<View height="Ti.UI.SIZE" layout="vertical" backgroundColor="#f2f2f2" width="90%">
+			<Label id="currentDate" class='label' height="50"  top="10" color="#32A8D3" bottom="10" left="20"></Label>
+			<View height="2" left="0" right="0" backgroundColor="#32A8D3"></View>
+			<View id="pickerView" height="Ti.UI.SIZE"></View><!-- <Picker calendarViewShown="false" onChange="changePickerVal" nativeSpinner="true" type="Ti.UI.PICKER_TYPE_DATE" backgroundColor="#f2f2f2" id="androidPicker" width="Ti.UI.FILL"></Picker> -->
+			<View height="1" left="0" right="0" backgroundColor="#BDBDBD"></View>
+			<View height="40dp">
+				<Label id="doneButton" class='button' backgroundColor="transparent" textAlign="center" height="Ti.UI.FILL" width="Ti.UI.FILL" color="#000" onClick="getDatePicker">Done</Label>
+			</View>
+		</View>
+	</Window>
+</Alloy>

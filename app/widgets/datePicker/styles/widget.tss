@@ -1,0 +1,36 @@
+//
+// '.label':{
+// font: {
+// fontSize: "20",
+// fontWeight: "normal"
+// }
+// }
+// '.button':{
+// font: {
+// fontSize: "18",
+// fontWeight: "normal"
+// }
+// }
+
+'.label':{
+	font: {
+		fontSize: "20",
+		fontWeight: "normal"
+	}
+}
+'.button':{
+	font: {
+		fontSize: "18",
+		fontWeight: "normal"
+	}
+}
+
+
+"#win":
+{
+
+	theme: "Theme.Transparent"
+}
+
+
+

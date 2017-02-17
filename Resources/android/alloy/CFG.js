@@ -1,0 +1,1 @@
+module.exports={"dependencies":{"datePicker":"1.0"}};

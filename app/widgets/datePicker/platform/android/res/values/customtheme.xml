@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="MyTheme" parent="@style/Theme.AppCompat.Light">
+		<item name="windowActionBar">false</item>
+		<item name="windowNoTitle">true</item>
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<!-- <item name="colorPrimaryDark">#2B6B92</item>
+		<item name="colorPrimary">#4484B7</item>
+		<item name="colorAccent">#ffffff</item>
+		<item name="android:textColorPrimary">#FFFFFF</item>
+		<item name="android:navigationBarColor">#4484B7</item>
+		<item name="actionMenuTextColor">#ffffff</item>
+		<item name="android:actionMenuTextColor">#ffffff</item>
+		  <item name="colorAccent">#FF80AB</item> -->
+	</style>
+</resources>
+

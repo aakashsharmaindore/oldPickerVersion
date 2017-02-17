@@ -1,0 +1,5 @@
+<Alloy>
+	<Window id="win" backgroundColor="white">
+		<Label id="lbl" onClick="getData" color="black">Label</Label>
+	</Window>
+</Alloy> 
